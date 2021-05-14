@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jabsal
 - 👀 I’m interested in Data Engineering projects
-- 🌱 I’m currently learning Kafka
+- 🌱 I’m currently learning about different ETL pipelines in Cloud (AWS, Azure)
 - 📫 How to reach me joseph.salu@yahoo.com
 
 <!---
